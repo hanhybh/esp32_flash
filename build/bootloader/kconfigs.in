@@ -1,0 +1,7 @@
+source "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/efuse/Kconfig"
+source "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp32/Kconfig"
+source "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_common/Kconfig"
+source "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_system/Kconfig"
+source "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/log/Kconfig"
+source "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/newlib/Kconfig"
+source "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/spi_flash/Kconfig"

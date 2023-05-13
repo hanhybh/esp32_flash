@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/bootloader/subproject",
+    "build_dir":          "E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader",
+    "config_file":        "E:/Bai_tap_tat_ca/ESP_IDF/flash/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.3.1-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/efuse/Kconfig;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp32/Kconfig;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_common/Kconfig;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_system/Kconfig;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/log/Kconfig;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/newlib/Kconfig;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/bootloader/Kconfig.projbuild;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esptool_py/Kconfig.projbuild;E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/bootloader", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/bootloader_support", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/efuse", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp32", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_common", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_hw_support", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_rom", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esp_system", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/esptool_py", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/hal", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/log", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/bootloader/subproject/main", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/bootloader/subproject/components/micro-ecc", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/newlib", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/partition_table", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/soc", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/spi_flash", "E:/Bai_tap_tat_ca/ESP_IDF/ESP_IDF/components/xtensa", "" ]
+}

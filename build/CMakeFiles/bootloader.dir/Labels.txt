@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/CMakeFiles/bootloader
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/CMakeFiles/bootloader.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/CMakeFiles/bootloader-complete.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Bai_tap_tat_ca/ESP_IDF/flash/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
